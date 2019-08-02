@@ -28,7 +28,6 @@ namespace POSManagement.Models.System.Store
         public string UpdatedBy { get; set; }
         public DateTime UpdatedOn { get; set; }
         public bool IsActive { get; set; }
-        public int MyProperty { get; set; }
 
     }
 }
